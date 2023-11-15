@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Tela001"
+rootProject.name = "Projeto_Energy"
 include(":app")
+ 
